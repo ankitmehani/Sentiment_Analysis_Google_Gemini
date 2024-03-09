@@ -1,3 +1,123 @@
+commit 3f51aae2cfe26191f876c63b80483e093452897b
+Author: Ankit Mehani <ankit1092@gmail.com>
+Date:   Sat Mar 9 18:26:28 2024 +0000
+
+    Removing Config File - aws_config.ini
+
+commit 42d97478d2a128dbd7e45add2f7dc084ceece009
+Author: Aayush Ladda <laddaas28@gmail.com>
+Date:   Wed Mar 6 10:04:36 2024 +0000
+
+    Updated Screenshots
+
+commit 50c68e7011b5a022634332f29dc77aa283f50bb4
+Author: Aayush Ladda <laddaas28@gmail.com>
+Date:   Wed Mar 6 09:03:57 2024 +0000
+
+    Run
+
+commit 0f52e395c1573b27ccafc5633476d0faf9f5ee9d
+Author: Aayush Ladda <laddaas28@gmail.com>
+Date:   Wed Mar 6 09:02:11 2024 +0000
+
+    Full Run
+
+commit d5c2b34c798f23467a48ce518af60035004eb73c
+Author: Aayush Ladda <laddaas28@gmail.com>
+Date:   Wed Mar 6 09:01:11 2024 +0000
+
+    Added index to the report
+
+commit a82aa53bf459bda83dda74bdf547cfe1abfa7d44
+Author: Aayush Ladda <laddaas28@gmail.com>
+Date:   Tue Mar 5 08:51:06 2024 +0000
+
+    Report Updates
+
+commit 9472478ea7510451c81a830822bb817448056181
+Author: Aayush Ladda <laddaas28@gmail.com>
+Date:   Mon Mar 4 17:56:25 2024 +0000
+
+    Full Run
+
+commit bc62147e8d4545ae1735ffe1eee4448b74e30e9d
+Author: Aayush Ladda <laddaas28@gmail.com>
+Date:   Mon Mar 4 17:47:00 2024 +0000
+
+    Report Updates
+
+commit e1324bdca529346416afd4d749437a1afa7e30fd
+Author: Aayush Ladda <laddaas28@gmail.com>
+Date:   Mon Mar 4 17:44:00 2024 +0000
+
+    Explaining ETL and Sentiment Analysis
+
+commit 59708fa855e8c8df3969008d3adbe8647f3a74e2
+Author: Aayush Ladda <laddaas28@gmail.com>
+Date:   Mon Mar 4 16:51:22 2024 +0000
+
+    Data Extraction and Data Loading Updated
+
+commit ab9ae728690df83bd9a05f669a0298f1019a7065
+Author: Aayush Ladda <laddaas28@gmail.com>
+Date:   Mon Mar 4 14:52:45 2024 +0000
+
+    Zipping Screenshots
+
+commit bfdc0cc23c690a0932cc32f628472066941d2402
+Author: Aayush Ladda <laddaas28@gmail.com>
+Date:   Mon Mar 4 14:34:09 2024 +0000
+
+    Report changes
+
+commit 0acd564724a8a0b144da46d39c5cf5956af624f4
+Author: Aayush Ladda <laddaas28@gmail.com>
+Date:   Mon Mar 4 13:58:26 2024 +0000
+
+    Uploading AWS Screenshots
+
+commit 6ad7997f2d0468eaa755470b375678af2242e628
+Author: Aayush Ladda <laddaas28@gmail.com>
+Date:   Mon Mar 4 13:32:04 2024 +0000
+
+    Report
+
+commit c296d5d2aa3d6cf4c40823edfa95b4297b276b29
+Author: P-Ariya <114906833+P-Ariya@users.noreply.github.com>
+Date:   Mon Mar 4 20:03:06 2024 +0700
+
+    Create commits log
+
+commit 13781ba4f8bf09451793cbace71eb93c44de5253
+Author: Aayush Ladda <laddaas28@gmail.com>
+Date:   Mon Mar 4 13:00:58 2024 +0000
+
+    Reporting
+
+commit e9e62137eaeb1fa12fdd8d70d480b4a083124099
+Author: Aayush Ladda <laddaas28@gmail.com>
+Date:   Mon Mar 4 12:58:45 2024 +0000
+
+    Reporting
+
+commit 9499d722e0246da30881d38093d292040c4502d7
+Author: Aayush Ladda <laddaas28@gmail.com>
+Date:   Mon Mar 4 12:33:49 2024 +0000
+
+    Starting project Report
+
+commit fd95cc02e08aff084fa3d33c7f2ef223e0a254b5
+Author: Aayush Ladda <laddaas28@gmail.com>
+Date:   Mon Mar 4 12:25:07 2024 +0000
+
+    Update in main file
+
+commit 0f8f14099356baa9e976366d3944a156e5f23613
+Author: Aayush Ladda <laddaas28@gmail.com>
+Date:   Mon Mar 4 12:24:27 2024 +0000
+
+    Updates in the main file
+
 commit 94b399897bea76752d564e7095417d4f33f2ec07
 Author: Aayush Ladda <laddaas28@gmail.com>
 Date:   Mon Mar 4 12:16:16 2024 +0000
